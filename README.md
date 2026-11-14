@@ -4,7 +4,7 @@
 
 Senior Business Administration student at **Tunis Business School**, majoring in **Business Analytics** and minoring in **Information Technology**. I use data preparation, statistical modeling, and business intelligence tools to turn datasets into actionable insights.
 
-**Seeking an end-of-studies internship** in Data Analytics or Business Intelligence, with a particular interest in opportunities in the **UAE**.
+**Seeking an end-of-studies internship** in Data Analytics or Business Intelligence, primarily in the **UAE**, while also open to opportunities in **Tunisia**.
 
 ## Featured projects
 
