@@ -1,28 +1,36 @@
-# Hi, I'm Nouha Boukhris&#x20;
+# Nouha Boukhris
 
-Senior Business Administration student at **Tunis Business School**, majoring in **Business Analytics** and minoring in **Information Technology**.
+**Business Analytics Student | Data Analytics · Business Intelligence · Machine Learning**
 
-Interested in **Data Analytics, Business Intelligence, and Machine Learning**, with a focus on transforming data into meaningful insights that support business decisions.
+Senior Business Administration student at **Tunis Business School**, majoring in **Business Analytics** and minoring in **Information Technology**. I use data preparation, statistical modeling, and business intelligence tools to turn datasets into actionable insights.
 
-### Technical Skills
+**Seeking an end-of-studies internship** in Data Analytics or Business Intelligence, with a particular interest in opportunities in the **UAE**.
 
-- **Programming & Analysis:** Python, SQL, R
-- **Data Visualization & BI:** Power BI, DAX, Excel
-- **Machine Learning:** scikit-learn, classification, clustering
-- **Development Tools:** Git, GitHub, Docker, Postman
+## Featured projects
 
-### Featured Projects
+| Project | Focus | Tools |
+| --- | --- | --- |
+| [Spotify Music Trends & Popularity Analysis](https://github.com/NouhaBoukhris/spotify-music-trends-analysis) | Three-page BI dashboard, dimensional modeling, popularity analysis | SQL, Power BI, DAX, Python |
+| [Remote Job Market Analytics](https://github.com/NouhaBoukhris/remote-job-market-analytics) | API extraction, data cleaning, skill-tag analysis, interactive dashboard | Python, pandas, Power BI |
+| [The Geopolitics of Oil](https://github.com/NouhaBoukhris/geopolitics-of-oil-econometric-analysis) | Panel regression across 12 countries and short-term forecasting | R, panel econometrics, ARIMA |
+| [Employee Burnout Classification](https://github.com/NouhaBoukhris/employee-burnout-classification) | Educational ML benchmark with imbalanced synthetic data | Python, scikit-learn |
 
-- **Spotify Music Trends Dashboard** — SQL data modeling, Power BI, DAX, and music popularity analysis.
-- **Employee Burnout Classification** — Machine learning classification using Python and scikit-learn.
-- **Remote Job Market Analytics** — Python-based data collection and Power BI visualization.
-- **Inflation Analysis & Forecasting** — Panel regression and ARIMA forecasting using R.
+### Project previews
 
-### Currently
+[![Spotify Power BI dashboard](https://raw.githubusercontent.com/NouhaBoukhris/spotify-music-trends-analysis/main/images/01_executive_summary.png)](https://github.com/NouhaBoukhris/spotify-music-trends-analysis)
 
-- Developing my skills in data analytics and predictive modeling.
-- Seeking a graduation internship in **Data Analytics, Business Intelligence, or Machine Learning**.
+[![Remote Job Market Power BI dashboard](https://raw.githubusercontent.com/NouhaBoukhris/remote-job-market-analytics/main/images/remote_job_dashboard.png)](https://github.com/NouhaBoukhris/remote-job-market-analytics)
 
-### Connect With Me
+## Technical skills
 
-- LinkedIn: [Nouha Boukhris](https://www.linkedin.com/in/nouhaboukhris/)
+- **Analytics:** Python (pandas), SQL, R, Excel
+- **Business intelligence:** Power BI, DAX, data modeling, data visualization
+- **Statistical analysis:** Panel regression, hypothesis testing, ARIMA forecasting
+- **Machine learning:** scikit-learn, classification, model evaluation
+- **Tools:** Git, GitHub
+
+My academic projects are collaborative where noted in their repositories. Each project README documents its methods, source files, limitations, and reproducibility status.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/nouhaboukhris/) · [Explore my repositories](https://github.com/NouhaBoukhris?tab=repositories)
